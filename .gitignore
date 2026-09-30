@@ -1,0 +1,30 @@
+# CMake build output
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+
+# Compiled files
+*.o
+*.obj
+*.a
+*.so
+*.dll
+*.exe
+*.out
+
+# Debug / temporary files
+*.log
+*.tmp
+*.swp
+*.swo
+
+# VS Code local configuration
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
