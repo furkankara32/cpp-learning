@@ -2,7 +2,13 @@
 
 int main()
 {
-    std::cout << "Hello Modern C++!" << '\n';
+    /*
+    
+    using namespace std;
+    cout << "HEllo " <<  "Furkan" << endl;
+    
+    */
 
+    std::cout << "Merhaba" << " Galdeş" << std::endl;
     return 0;
 }

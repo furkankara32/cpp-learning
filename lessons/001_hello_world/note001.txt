@@ -1,0 +1,8 @@
+namespace = Namespace bir küme olarak düşünülebilir.
+* kullandığımız değişkenleri, fonksiyonları, sınıfları vb gruplamamızı sağlar ve aynı
+*isme sahip olan değişken/fonskiyon/sınıfların çakışmasını önler.
+* Bu fonksiyonlara erişmek için kapsam çözme operatörü (::) ya da using kullanılır.
+* using namespace x -> x namespacesinin tamamını bulunduğun scope a açar. Ancak isim karmaşası sebebiyle kullanımı tercih edilmez.
+* x::cout << "Hello"; -> Tam ismini yazarak kullanılır.
+* using std::cout -> Sadece cout yazarak kullanmamızı sağlar. İlgili kısmı açar.
+
