@@ -1,0 +1,11 @@
+Primitive types:
+* bool,chaar,char16_t short,int,float,double
+
+modifiers:
+signed,unsigned,short,long
+Modifiers float point types ile kullanılamaz.
+
+
+Qualifiers:
+volatile,const,static
+
